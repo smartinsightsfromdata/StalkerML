@@ -57,6 +57,7 @@ docs/_build/
 target/
 
 .ipynb_checkpoints/*
+scripts/.ipynb_checkpoints/*
 
 data/
 models/
